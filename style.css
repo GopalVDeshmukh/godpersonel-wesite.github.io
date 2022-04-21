@@ -1,6 +1,11 @@
 body{
     background-color: black;
     color: antiquewhite;
+    background-image: url(ironheart.jpg);
+background-repeat: no-repeat;
+background-position: right center;
+background-size: 20%;
+padding-bottom: 20%;
 }
 .Note{
     text-align: center;
