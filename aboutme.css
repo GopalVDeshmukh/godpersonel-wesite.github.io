@@ -54,3 +54,6 @@ p{
 .CV a:hover{
     color: green;
 }
+.Note{
+    text-align: center;
+}
