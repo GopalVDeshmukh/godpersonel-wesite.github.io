@@ -52,3 +52,6 @@ marquee{
     justify-content: space-between;
     font-weight: bold;
 }
+.Note{
+    text-align: center;
+}
