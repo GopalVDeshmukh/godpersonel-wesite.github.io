@@ -94,3 +94,7 @@ nav ul li a:hover{
         background: white;
         color: black;
     }
+.foo{
+        text-align: center;
+        padding-top: 5%;
+    }
