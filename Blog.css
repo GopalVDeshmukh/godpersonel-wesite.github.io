@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: white;
+    padding-left: 35%;
+    background-image: url(sm.jpg);
+    background-repeat: no-repeat;
+}
+.head{
+    padding-left: 10%;
+    color: orangered;
+}
+.Homepage{
+    text-align: end;
+    padding-right: 10%;
+}
