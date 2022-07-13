@@ -94,6 +94,10 @@ nav ul li a:hover{
         background: white;
         color: black;
     }
+.love{
+        width: 3%;
+        height: 3%;
+    }
 .foo{
         text-align: center;
         padding-top: 5%;
